@@ -1,13 +1,5 @@
-Task_2\Binaries
-Task_2\DerivedDataCache
-Task_2\Intermediate
-Task_2\Saved
-.vscode
+**/Binaries
+**/DerivedDataCache
+**/Intermediate
+**/Saved
 .vs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.suo
-*.xcodeproj
-*.xcworkspace
